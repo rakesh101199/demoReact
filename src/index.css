@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.card{
+  width:80%;
+  margin:15px auto;
+  border:2px solid rgb(176, 171, 250);
+  border-radius: 15px;
+  background-color: rgb(155, 187, 202);
+}

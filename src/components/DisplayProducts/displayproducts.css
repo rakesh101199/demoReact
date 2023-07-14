@@ -1,0 +1,8 @@
+.items{
+    width:90%;
+    border : 2px solid rgb(10, 10, 10);
+    border-radius: 12px;
+    margin: 20px auto;
+    list-style-position: inside;
+ 
+}
